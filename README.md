@@ -15,7 +15,7 @@ pip install kaggle
 
 3) copy and paste the downloaded Kaggle token (Kaggle.json) on your user path (~/user//.kaggle/)
 
-## like c:/user/babakea/.kaggle/
+like c:/user/babakea/.kaggle/
 
 
 import the Kaggle API 
