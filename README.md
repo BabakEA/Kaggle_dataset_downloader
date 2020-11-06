@@ -22,6 +22,9 @@ import the Kaggle API
 
 api.competitions_list(category='gettingStarted')
 
+youtube Link:
+https://www.youtube.com/watch?v=KiBXZ2RWY88
+
 
 ![Kaggle database download](data/Kaggle.gif)
   
